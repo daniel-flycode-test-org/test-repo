@@ -1,6 +1,6 @@
 {
     "Account": "Konto TEST",
-    "Activity": "Aktivität",
+    "Activity": "Aktivität Test",
     "app.action.actions": "Aktionen",
     "app.action.add": "Hinzufügen",
     "app.action.cancel": "Abbrechen",
@@ -10,7 +10,7 @@
     "app.create_object": "Objekt erstellen",
     "app.date": "{{date, dd MMM, yyyy}}",
     "app.no_resource": "Hier sind noch keine Objekte vorhanden. Test",
-    "Billing": "Abrechnung",
+    "Billing": "Abrechnung Test",
     "Blank Page": "Leere Seiten",
     "Buttons": "Tasten",
     "Card Headers": "Kartenüberschriften",
